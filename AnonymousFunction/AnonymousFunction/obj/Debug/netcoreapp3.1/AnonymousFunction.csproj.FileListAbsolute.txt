@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.exe
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.deps.json
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.runtimeconfig.json
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.dll
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\bin\Debug\netcoreapp3.1\AnonymousFunction.pdb
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.dll
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.pdb
+C:\Users\Vishab\source\repos\AnonymousFunction\AnonymousFunction\obj\Debug\netcoreapp3.1\AnonymousFunction.genruntimeconfig.cache

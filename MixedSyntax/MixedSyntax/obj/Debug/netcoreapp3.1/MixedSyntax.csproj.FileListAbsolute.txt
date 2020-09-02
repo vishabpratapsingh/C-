@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.exe
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.deps.json
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.runtimeconfig.json
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.dll
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\bin\Debug\netcoreapp3.1\MixedSyntax.pdb
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.dll
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.pdb
+C:\Users\Vishab\source\repos\MixedSyntax\MixedSyntax\obj\Debug\netcoreapp3.1\MixedSyntax.genruntimeconfig.cache

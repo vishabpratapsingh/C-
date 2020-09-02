@@ -1,0 +1,10 @@
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\bin\Debug\ClientSide1.exe.config
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\bin\Debug\ClientSide1.exe
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\bin\Debug\ClientSide1.pdb
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.Form1.resources
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.Properties.Resources.resources
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.csproj.GenerateResource.cache
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.exe
+C:\Users\Vishab\source\repos\ClientSide1\ClientSide1\obj\Debug\ClientSide1.pdb

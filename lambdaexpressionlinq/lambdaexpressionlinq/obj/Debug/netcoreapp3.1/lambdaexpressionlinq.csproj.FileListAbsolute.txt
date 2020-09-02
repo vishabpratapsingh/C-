@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.exe
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.deps.json
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.runtimeconfig.json
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.dll
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\bin\Debug\netcoreapp3.1\lambdaexpressionlinq.pdb
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.dll
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.pdb
+C:\Users\Vishab\source\repos\lambdaexpressionlinq\lambdaexpressionlinq\obj\Debug\netcoreapp3.1\lambdaexpressionlinq.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.exe
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.deps.json
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.dll
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\bin\Debug\netcoreapp3.1\Sorteddictionarycollection.pdb
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.dll
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.pdb
+C:\Users\Vishab\source\repos\Sorteddictionarycollection\Sorteddictionarycollection\obj\Debug\netcoreapp3.1\Sorteddictionarycollection.genruntimeconfig.cache

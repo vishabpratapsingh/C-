@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.exe
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.deps.json
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.runtimeconfig.json
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.dll
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\bin\Debug\netcoreapp3.1\FileInfoprogram.pdb
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.dll
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.pdb
+C:\Users\Vishab\source\repos\FileInfoprogram\FileInfoprogram\obj\Debug\netcoreapp3.1\FileInfoprogram.genruntimeconfig.cache

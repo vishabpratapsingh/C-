@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.exe
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.deps.json
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.runtimeconfig.json
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.dll
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\bin\Debug\netcoreapp3.1\DirectoryInfoProgram.pdb
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.dll
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.pdb
+C:\Users\Vishab\source\repos\DirectoryInfoProgram\DirectoryInfoProgram\obj\Debug\netcoreapp3.1\DirectoryInfoProgram.genruntimeconfig.cache

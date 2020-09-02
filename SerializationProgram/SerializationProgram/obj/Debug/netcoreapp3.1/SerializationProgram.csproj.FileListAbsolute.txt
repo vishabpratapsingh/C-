@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.exe
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.deps.json
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.runtimeconfig.json
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.dll
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\bin\Debug\netcoreapp3.1\SerializationProgram.pdb
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.dll
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.pdb
+C:\Users\Vishab\source\repos\SerializationProgram\SerializationProgram\obj\Debug\netcoreapp3.1\SerializationProgram.genruntimeconfig.cache

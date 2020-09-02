@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.exe
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.deps.json
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.runtimeconfig.json
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.dll
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\bin\Debug\netcoreapp3.1\querysyntax.pdb
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.dll
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.pdb
+C:\Users\Vishab\source\repos\querysyntax\querysyntax\obj\Debug\netcoreapp3.1\querysyntax.genruntimeconfig.cache

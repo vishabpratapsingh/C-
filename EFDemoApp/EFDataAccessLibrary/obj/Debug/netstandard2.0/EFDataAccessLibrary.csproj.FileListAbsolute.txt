@@ -1,0 +1,9 @@
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.deps.json
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.dll
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.pdb
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.dll
+C:\Users\Vishab\source\repos\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.exe
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.deps.json
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.runtimeconfig.json
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.dll
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\bin\Debug\netcoreapp3.1\statickeyword.pdb
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.dll
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.pdb
+C:\Users\Vishab\source\repos\statickeyword\statickeyword\obj\Debug\netcoreapp3.1\statickeyword.genruntimeconfig.cache

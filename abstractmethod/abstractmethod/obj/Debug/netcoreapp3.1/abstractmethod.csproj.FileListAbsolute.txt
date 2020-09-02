@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.exe
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.deps.json
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.runtimeconfig.json
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.dll
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\bin\Debug\netcoreapp3.1\abstractmethod.pdb
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.dll
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.pdb
+C:\Users\Vishab\source\repos\abstractmethod\abstractmethod\obj\Debug\netcoreapp3.1\abstractmethod.genruntimeconfig.cache

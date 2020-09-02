@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.exe
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.deps.json
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.runtimeconfig.json
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.dll
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\bin\Debug\netcoreapp3.1\FileStreamRLBFF.pdb
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.dll
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.pdb
+C:\Users\Vishab\source\repos\FileStreamRLBFF\FileStreamRLBFF\obj\Debug\netcoreapp3.1\FileStreamRLBFF.genruntimeconfig.cache

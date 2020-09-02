@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.exe
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.deps.json
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.runtimeconfig.json
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.dll
+C:\Users\Vishab\source\repos\destructor\destructor\bin\Debug\netcoreapp3.1\destructor.pdb
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.dll
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.pdb
+C:\Users\Vishab\source\repos\destructor\destructor\obj\Debug\netcoreapp3.1\destructor.genruntimeconfig.cache

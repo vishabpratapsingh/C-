@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.exe
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.deps.json
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.runtimeconfig.json
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.dll
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\bin\Debug\netcoreapp3.1\BinaryReader.pdb
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.dll
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.pdb
+C:\Users\Vishab\source\repos\BinaryReader\BinaryReader\obj\Debug\netcoreapp3.1\BinaryReader.genruntimeconfig.cache

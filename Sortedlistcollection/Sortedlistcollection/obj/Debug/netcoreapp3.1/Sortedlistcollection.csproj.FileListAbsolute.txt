@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.exe
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.deps.json
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.dll
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\bin\Debug\netcoreapp3.1\Sortedlistcollection.pdb
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.dll
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.pdb
+C:\Users\Vishab\source\repos\Sortedlistcollection\Sortedlistcollection\obj\Debug\netcoreapp3.1\Sortedlistcollection.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.exe
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.deps.json
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.runtimeconfig.json
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.dll
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\bin\Debug\netcoreapp3.1\filestreamSBIF.pdb
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.dll
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.pdb
+C:\Users\Vishab\source\repos\filestreamSBIF\filestreamSBIF\obj\Debug\netcoreapp3.1\filestreamSBIF.genruntimeconfig.cache

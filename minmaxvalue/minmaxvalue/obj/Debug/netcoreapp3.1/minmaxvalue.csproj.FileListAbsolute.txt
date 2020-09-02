@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.exe
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.deps.json
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.runtimeconfig.json
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.dll
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\bin\Debug\netcoreapp3.1\minmaxvalue.pdb
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.dll
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.pdb
+C:\Users\Vishab\source\repos\minmaxvalue\minmaxvalue\obj\Debug\netcoreapp3.1\minmaxvalue.genruntimeconfig.cache

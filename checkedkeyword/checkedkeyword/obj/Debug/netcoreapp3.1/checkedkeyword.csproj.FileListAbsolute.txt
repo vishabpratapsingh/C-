@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.exe
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.deps.json
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.runtimeconfig.json
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.dll
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\bin\Debug\netcoreapp3.1\checkedkeyword.pdb
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.dll
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.pdb
+C:\Users\Vishab\source\repos\checkedkeyword\checkedkeyword\obj\Debug\netcoreapp3.1\checkedkeyword.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.exe
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.deps.json
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.runtimeconfig.json
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.dll
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\bin\Debug\netcoreapp3.1\Withtrycatch.pdb
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.dll
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.pdb
+C:\Users\Vishab\source\repos\Withtrycatch\Withtrycatch\obj\Debug\netcoreapp3.1\Withtrycatch.genruntimeconfig.cache

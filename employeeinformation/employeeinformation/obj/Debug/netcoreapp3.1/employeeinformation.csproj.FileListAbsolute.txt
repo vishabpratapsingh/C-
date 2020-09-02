@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.exe
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.deps.json
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.runtimeconfig.json
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.dll
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\bin\Debug\netcoreapp3.1\employeeinformation.pdb
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.dll
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.pdb
+C:\Users\Vishab\source\repos\employeeinformation\employeeinformation\obj\Debug\netcoreapp3.1\employeeinformation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.exe
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.deps.json
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.runtimeconfig.json
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.dll
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\bin\Debug\netcoreapp3.1\TextWriter.pdb
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.dll
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.pdb
+C:\Users\Vishab\source\repos\TextWriter\TextWriter\obj\Debug\netcoreapp3.1\TextWriter.genruntimeconfig.cache

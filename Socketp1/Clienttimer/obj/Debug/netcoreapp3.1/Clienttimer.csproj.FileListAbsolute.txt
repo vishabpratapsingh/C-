@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.exe
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.deps.json
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.runtimeconfig.json
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.dll
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\bin\Debug\netcoreapp3.1\Clienttimer.pdb
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.dll
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.pdb
+C:\Users\Vishab\source\repos\Socketp1\Clienttimer\obj\Debug\netcoreapp3.1\Clienttimer.genruntimeconfig.cache

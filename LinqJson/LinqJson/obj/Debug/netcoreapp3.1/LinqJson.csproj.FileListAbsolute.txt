@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.exe
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.deps.json
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.runtimeconfig.json
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.dll
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\bin\Debug\netcoreapp3.1\LinqJson.pdb
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.dll
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.pdb
+C:\Users\Vishab\source\repos\LinqJson\LinqJson\obj\Debug\netcoreapp3.1\LinqJson.genruntimeconfig.cache

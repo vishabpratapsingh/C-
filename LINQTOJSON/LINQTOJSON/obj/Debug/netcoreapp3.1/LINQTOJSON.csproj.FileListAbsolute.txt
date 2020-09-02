@@ -1,0 +1,15 @@
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.exe
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.deps.json
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.runtimeconfig.json
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.dll
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\LINQTOJSON.pdb
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.csproj.CopyComplete
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.dll
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.pdb
+C:\Users\Vishab\source\repos\LINQTOJSON\LINQTOJSON\obj\Debug\netcoreapp3.1\LINQTOJSON.genruntimeconfig.cache

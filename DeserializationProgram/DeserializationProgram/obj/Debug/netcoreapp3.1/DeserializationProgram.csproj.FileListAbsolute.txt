@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.exe
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.deps.json
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.runtimeconfig.json
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.dll
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\bin\Debug\netcoreapp3.1\DeserializationProgram.pdb
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.dll
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.pdb
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.genruntimeconfig.cache
+C:\Users\Vishab\source\repos\DeserializationProgram\DeserializationProgram\obj\Debug\netcoreapp3.1\DeserializationProgram.csprojAssemblyReference.cache

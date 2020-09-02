@@ -1,0 +1,15 @@
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.exe
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.deps.json
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.runtimeconfig.json
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.dll
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Serializejson.pdb
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.csproj.CopyComplete
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.dll
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.pdb
+C:\Users\Vishab\source\repos\Serializejson\Serializejson\obj\Debug\netcoreapp3.1\Serializejson.genruntimeconfig.cache

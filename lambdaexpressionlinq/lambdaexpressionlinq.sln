@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambdaexpressionlinq", "lambdaexpressionlinq\lambdaexpressionlinq.csproj", "{E5D79B5C-AFCA-4777-87D0-F2F9821C7DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5D79B5C-AFCA-4777-87D0-F2F9821C7DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D79B5C-AFCA-4777-87D0-F2F9821C7DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D79B5C-AFCA-4777-87D0-F2F9821C7DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D79B5C-AFCA-4777-87D0-F2F9821C7DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FD14F3-4E35-4240-A42A-E2DF6109CB23}
+	EndGlobalSection
+EndGlobal

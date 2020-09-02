@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzNYeu9/SPxXbHJ/qvJ0FaatQmHlpSrVoFd9revq99CrFhoaD1XhxdVV/0DqR5gL1F3N4AwMm2M+suJEnatCAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vishab\\source\\repos\\Serializejson\\Serializejson\\Serializejson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Vishab\source\repos\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Vishab\source\repos\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

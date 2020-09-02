@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.exe
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.deps.json
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.runtimeconfig.json
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.dll
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\bin\Debug\netcoreapp3.1\StreamReaderoneline.pdb
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.dll
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.pdb
+C:\Users\Vishab\source\repos\StreamReaderoneline\StreamReaderoneline\obj\Debug\netcoreapp3.1\StreamReaderoneline.genruntimeconfig.cache

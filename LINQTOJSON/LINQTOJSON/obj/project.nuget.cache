@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKtcIduDKAzvKphHGou3Ohe5i8CzyCzmAC9ZC30J/SwOocRTriedrW0GxwqcnsYk80QtZTfNLnjPpkAAwsfB7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vishab\\source\\repos\\LINQTOJSON\\LINQTOJSON\\LINQTOJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vishab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

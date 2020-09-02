@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filestreamSBIF", "filestreamSBIF\filestreamSBIF.csproj", "{CBC103DE-B52A-4DF4-B107-E5C9C8014E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC103DE-B52A-4DF4-B107-E5C9C8014E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC103DE-B52A-4DF4-B107-E5C9C8014E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC103DE-B52A-4DF4-B107-E5C9C8014E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC103DE-B52A-4DF4-B107-E5C9C8014E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B434BC5F-C5BD-432C-A7D7-6B8762929683}
+	EndGlobalSection
+EndGlobal

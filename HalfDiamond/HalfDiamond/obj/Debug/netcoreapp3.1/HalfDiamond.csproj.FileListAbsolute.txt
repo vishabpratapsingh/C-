@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.exe
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.deps.json
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.runtimeconfig.json
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.dll
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\bin\Debug\netcoreapp3.1\HalfDiamond.pdb
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.dll
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.pdb
+C:\Users\Vishab\source\repos\HalfDiamond\HalfDiamond\obj\Debug\netcoreapp3.1\HalfDiamond.genruntimeconfig.cache

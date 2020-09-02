@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.exe
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.deps.json
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.runtimeconfig.json
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.dll
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\bin\Debug\netcoreapp3.1\Welcometocsharp.pdb
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.dll
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.pdb
+C:\Users\Vishab\source\repos\Welcometocsharp\Welcometocsharp\obj\Debug\netcoreapp3.1\Welcometocsharp.genruntimeconfig.cache

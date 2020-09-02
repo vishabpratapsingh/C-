@@ -1,0 +1,10 @@
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\bin\Debug\JsonprogramSerialization.exe.config
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\bin\Debug\JsonprogramSerialization.exe
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\bin\Debug\JsonprogramSerialization.pdb
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\obj\Debug\JsonprogramSerialization.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\obj\Debug\JsonprogramSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\obj\Debug\JsonprogramSerialization.csproj.CopyComplete
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\obj\Debug\JsonprogramSerialization.exe
+C:\Users\Vishab\source\repos\JsonprogramSerialization\JsonprogramSerialization\obj\Debug\JsonprogramSerialization.pdb

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.exe
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.deps.json
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.runtimeconfig.json
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.dll
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.pdb
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.dll
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.pdb
+C:\Users\Vishab\source\repos\DelegateEvent\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.genruntimeconfig.cache

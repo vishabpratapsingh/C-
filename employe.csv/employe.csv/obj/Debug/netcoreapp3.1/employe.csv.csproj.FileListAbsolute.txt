@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.exe
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.deps.json
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.runtimeconfig.json
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.dll
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\bin\Debug\netcoreapp3.1\employe.csv.pdb
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.dll
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.pdb
+C:\Users\Vishab\source\repos\employe.csv\employe.csv\obj\Debug\netcoreapp3.1\employe.csv.genruntimeconfig.cache

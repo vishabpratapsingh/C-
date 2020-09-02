@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.exe
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.deps.json
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.runtimeconfig.json
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.dll
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\bin\Debug\netcoreapp3.1\Withouttrycatch.pdb
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.dll
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.pdb
+C:\Users\Vishab\source\repos\Withouttrycatch\Withouttrycatch\obj\Debug\netcoreapp3.1\Withouttrycatch.genruntimeconfig.cache

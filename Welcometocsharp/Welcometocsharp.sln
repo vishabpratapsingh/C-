@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcometocsharp", "Welcometocsharp\Welcometocsharp.csproj", "{447C47A1-05F1-45EB-926A-4050931F7ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447C47A1-05F1-45EB-926A-4050931F7ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447C47A1-05F1-45EB-926A-4050931F7ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447C47A1-05F1-45EB-926A-4050931F7ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447C47A1-05F1-45EB-926A-4050931F7ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709D7131-9460-48A2-AAA7-6C02EE1D3F43}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.exe
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.deps.json
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.runtimeconfig.json
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.dll
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\bin\Debug\netcoreapp3.1\Socketp1.pdb
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.dll
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.pdb
+C:\Users\Vishab\source\repos\Socketp1\Socketp1\obj\Debug\netcoreapp3.1\Socketp1.genruntimeconfig.cache

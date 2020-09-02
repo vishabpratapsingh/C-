@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.exe
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.deps.json
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.runtimeconfig.json
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.dll
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\bin\Debug\netcoreapp3.1\MethodSyntax.pdb
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.dll
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.pdb
+C:\Users\Vishab\source\repos\MethodSyntax\MethodSyntax\obj\Debug\netcoreapp3.1\MethodSyntax.genruntimeconfig.cache

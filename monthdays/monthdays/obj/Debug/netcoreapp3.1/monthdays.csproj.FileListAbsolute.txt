@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.exe
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.deps.json
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.runtimeconfig.json
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.dll
+C:\Users\Vishab\source\repos\monthdays\monthdays\bin\Debug\netcoreapp3.1\monthdays.pdb
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.dll
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.pdb
+C:\Users\Vishab\source\repos\monthdays\monthdays\obj\Debug\netcoreapp3.1\monthdays.genruntimeconfig.cache

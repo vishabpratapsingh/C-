@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.exe
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.deps.json
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.runtimeconfig.json
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.dll
+C:\Users\Vishab\source\repos\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.pdb
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.dll
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.pdb
+C:\Users\Vishab\source\repos\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.genruntimeconfig.cache

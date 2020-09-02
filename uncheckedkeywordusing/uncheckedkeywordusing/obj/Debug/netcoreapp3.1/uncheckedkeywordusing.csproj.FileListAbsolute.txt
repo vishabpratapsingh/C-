@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.exe
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.deps.json
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.runtimeconfig.json
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.dll
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\bin\Debug\netcoreapp3.1\uncheckedkeywordusing.pdb
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.dll
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.pdb
+C:\Users\Vishab\source\repos\uncheckedkeywordusing\uncheckedkeywordusing\obj\Debug\netcoreapp3.1\uncheckedkeywordusing.genruntimeconfig.cache

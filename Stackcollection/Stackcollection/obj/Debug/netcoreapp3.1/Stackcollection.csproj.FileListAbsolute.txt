@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.exe
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.deps.json
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.dll
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\bin\Debug\netcoreapp3.1\Stackcollection.pdb
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.dll
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.pdb
+C:\Users\Vishab\source\repos\Stackcollection\Stackcollection\obj\Debug\netcoreapp3.1\Stackcollection.genruntimeconfig.cache

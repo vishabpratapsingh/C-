@@ -1,0 +1,7 @@
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\obj\Debug\ServerSide.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\Vishab\source\repos\ServerSide\ServerSide\obj\Debug\ServerSide.pdb

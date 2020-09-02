@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.exe
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.deps.json
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.dll
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\bin\Debug\netcoreapp3.1\Listcollection.pdb
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.dll
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.pdb
+C:\Users\Vishab\source\repos\Listcollection\Listcollection\obj\Debug\netcoreapp3.1\Listcollection.genruntimeconfig.cache

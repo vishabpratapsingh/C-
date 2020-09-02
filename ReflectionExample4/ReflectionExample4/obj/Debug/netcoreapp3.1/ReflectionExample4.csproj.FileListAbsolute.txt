@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.exe
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.deps.json
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.runtimeconfig.json
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.dll
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\bin\Debug\netcoreapp3.1\ReflectionExample4.pdb
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.dll
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.pdb
+C:\Users\Vishab\source\repos\ReflectionExample4\ReflectionExample4\obj\Debug\netcoreapp3.1\ReflectionExample4.genruntimeconfig.cache

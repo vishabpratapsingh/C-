@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.exe
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.deps.json
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.dll
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\bin\Debug\netcoreapp3.1\Dictionarycollection.pdb
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.dll
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.pdb
+C:\Users\Vishab\source\repos\Dictionarycollection\Dictionarycollection\obj\Debug\netcoreapp3.1\Dictionarycollection.genruntimeconfig.cache

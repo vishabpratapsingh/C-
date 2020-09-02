@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.exe
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.deps.json
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.runtimeconfig.json
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.dll
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\bin\Debug\netcoreapp3.1\taskrunexample1.pdb
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.dll
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.pdb
+C:\Users\Vishab\source\repos\taskrunexample1\taskrunexample1\obj\Debug\netcoreapp3.1\taskrunexample1.genruntimeconfig.cache

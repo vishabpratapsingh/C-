@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.exe
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.deps.json
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.runtimeconfig.json
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.dll
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\bin\Debug\netcoreapp3.1\Sortedsetcollection.pdb
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.dll
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.pdb
+C:\Users\Vishab\source\repos\Sortedsetcollection\Sortedsetcollection\obj\Debug\netcoreapp3.1\Sortedsetcollection.genruntimeconfig.cache

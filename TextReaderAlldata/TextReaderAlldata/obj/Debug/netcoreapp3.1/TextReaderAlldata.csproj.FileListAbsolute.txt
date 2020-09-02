@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.exe
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.deps.json
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.runtimeconfig.json
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.dll
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\bin\Debug\netcoreapp3.1\TextReaderAlldata.pdb
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.dll
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.pdb
+C:\Users\Vishab\source\repos\TextReaderAlldata\TextReaderAlldata\obj\Debug\netcoreapp3.1\TextReaderAlldata.genruntimeconfig.cache

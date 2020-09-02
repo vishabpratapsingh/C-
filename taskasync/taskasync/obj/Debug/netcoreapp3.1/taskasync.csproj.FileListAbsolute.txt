@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.exe
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.deps.json
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.runtimeconfig.json
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.dll
+C:\Users\Vishab\source\repos\taskasync\taskasync\bin\Debug\netcoreapp3.1\taskasync.pdb
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.dll
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.pdb
+C:\Users\Vishab\source\repos\taskasync\taskasync\obj\Debug\netcoreapp3.1\taskasync.genruntimeconfig.cache

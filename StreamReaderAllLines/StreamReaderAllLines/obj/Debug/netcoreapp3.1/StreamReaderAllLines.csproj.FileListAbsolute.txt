@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.exe
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.deps.json
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.runtimeconfig.json
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.dll
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\bin\Debug\netcoreapp3.1\StreamReaderAllLines.pdb
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.dll
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.pdb
+C:\Users\Vishab\source\repos\StreamReaderAllLines\StreamReaderAllLines\obj\Debug\netcoreapp3.1\StreamReaderAllLines.genruntimeconfig.cache

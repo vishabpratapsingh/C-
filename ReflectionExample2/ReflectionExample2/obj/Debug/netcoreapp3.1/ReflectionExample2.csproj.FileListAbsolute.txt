@@ -1,0 +1,12 @@
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.exe
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.deps.json
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.runtimeconfig.json
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.dll
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\bin\Debug\netcoreapp3.1\ReflectionExample2.pdb
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.dll
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.pdb
+C:\Users\Vishab\source\repos\ReflectionExample2\ReflectionExample2\obj\Debug\netcoreapp3.1\ReflectionExample2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.exe
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.deps.json
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.runtimeconfig.json
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.runtimeconfig.dev.json
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.dll
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\bin\Debug\netcoreapp3.1\Queuecollections.pdb
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.csprojAssemblyReference.cache
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.AssemblyInfoInputs.cache
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.AssemblyInfo.cs
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.csproj.CoreCompileInputs.cache
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.dll
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.pdb
+C:\Users\Vishab\source\repos\Queuecollections\Queuecollections\obj\Debug\netcoreapp3.1\Queuecollections.genruntimeconfig.cache
